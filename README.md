@@ -1,18 +1,10 @@
-# DhanWapas - AI Revenue Recovery Agent
-> Built for Razorpay AI Builder Internship 2026 | Track 3: AI Revenue Recovery
-
-### Problem
-15% payments fail in India due to bank timeouts. Merchants lose crores.
-
-### Solution
-AI Agent that analyzes failure reason and sends personalized WhatsApp retry link.
-
-### Live Demo
-Streamlit Dashboard: [will add after deploy]
+# PayBack AI - Revenue Recovery Agent
+Live Dashboard: https://jc5s9oukyuse2zpj8qgwhx.streamlit.app/
 Pitch Video: [will add]
 
-### How to Run
-pip install -r requirements.txt
-streamlit run app.py
+Problem: 15% payments fail in India. Merchants lose lakhs daily.
+Solution: AI agent that detects failed payments and sends personalized WhatsApp recovery message with 1-click retry link.
 
-Synthetic data only.
+Tech: Python, Streamlit, AI Agent
+Team: Eva Mariya
+Built for Razorpay R.A.Y Challenge
