@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="PayBack AI")
 st.title("💸 PayBack AI - Revenue Recovery Agent")
-st.caption("For Razorpay AI Builder Internship 2026 | Track 3: AI Revenue Recovery")
+st.caption("Bulit by Deleena shijo|For Razorpay AI Builder Internship 2026 | Track 3: AI Revenue Recovery")
 
 col1, col2, col3 = st.columns(3)
 col1.metric("Failed Txns", "15", "₹45,200")
